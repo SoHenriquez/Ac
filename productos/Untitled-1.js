@@ -1,0 +1,2 @@
+<input type="search" id="input_search-box-input-comp-kmxd4x6o" class="_1SOvY has-custom-focus" value="" placeholder="Buscar un producto, por ejemplo, leche" maxlength="100" autocomplete="off" aria-label="Buscar un producto, por ejemplo, leche">
+<font-awesome-icon icon="fa-brands fa-instagram" />

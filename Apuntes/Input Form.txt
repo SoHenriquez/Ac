@@ -1,0 +1,20 @@
+HTML 5.1 existen etiquetas para ese fin.
+
+
+
+fecha:  <input type="date">
+
+Hora <input type="time">
+
+Fecha y Hora Local <input type="datetime-local">
+
+mes <input type="month">
+
+Semana <input type="week">
+
+
+SELECTORES:
+-Las clases son llamadas en css con .Clase .
+-Aplica la siguiente regla a todos los parrafos hijos -> .Clase > p{
+    color :blue;
+}
